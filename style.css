@@ -1,0 +1,37 @@
+body
+{
+    background-color: black;
+}
+
+li::marker
+{
+    color:red;
+}
+
+a:visited
+{
+    color: green;
+}
+
+ul
+{
+    width: 50%;
+    margin-left: 50%;
+    margin-right: auto;
+}
+
+
+#title
+{
+    margin:0;
+    border: 2px solid red;
+    color: red;
+}
+
+#title-text
+{
+    text-align: center;
+    border: 2px solid green;
+    display: block;
+    padding: 25;
+}
